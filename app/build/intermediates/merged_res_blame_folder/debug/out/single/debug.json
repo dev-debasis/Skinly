@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-pngs-18:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\font_open_sans_bold.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\font\\open_sans_bold.ttf"
+    },
+    {
+        "merged": "com.google.codelab.mlkit.app-merged_res-23:/layout_activity_main.xml.flat",
+        "source": "com.google.codelab.mlkit.app-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-pngs-18:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\font_syne_semi_bold.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\font\\syne_semi_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\font_open_sans_light.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\font\\open_sans_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\font_syne_extra_bold.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\font\\syne_extra_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-pngs-18:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-pngs-18:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\drawable-v24_img_5.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\drawable-v24\\img_5.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\layout_activity_splashscreen.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\font_syne_regular.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\font\\syne_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-pngs-18:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\font_syne_medium.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\font\\syne_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\drawable-v24_img.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\drawable-v24\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\font_open_sans_extra_bold.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\font\\open_sans_extra_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\drawable-v24_faceyyy.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\drawable-v24\\faceyyy.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\font_open_sans_semi_bold.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\font\\open_sans_semi_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-pngs-18:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\font_syne_bold.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\font\\syne_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\font_open_sans_regular.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\font\\open_sans_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\drawable_button.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\drawable_place_holder.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\drawable\\place_holder.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-pngs-18:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\layout_moisture_view.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\layout\\moisture_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\font_open_sans_medium.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\font\\open_sans_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\drawable-v24_img_4.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-main-25:\\drawable-v24\\img_4.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-merged_res-23:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6\\com.google.codelab.mlkit.app-pngs-18:\\drawable-mdpi\\ic_launcher_background.png"
+    }
+]

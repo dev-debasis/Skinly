@@ -1,0 +1,26 @@
+com.google.codelab.mlkit.app-coordinatorlayout-1.1.0-0 C:\Users\ASUS\.gradle\caches\transforms-3\0582e85b5d6086f7ca29734904e7405b\transformed\coordinatorlayout-1.1.0\res
+com.google.codelab.mlkit.app-jetified-savedstate-1.1.0-1 C:\Users\ASUS\.gradle\caches\transforms-3\0635a6b7c95fc66ecdfbdeda4c1ff460\transformed\jetified-savedstate-1.1.0\res
+com.google.codelab.mlkit.app-material-1.4.0-2 C:\Users\ASUS\.gradle\caches\transforms-3\08fa42242582a9ff71833d5df0b71aa6\transformed\material-1.4.0\res
+com.google.codelab.mlkit.app-appcompat-1.3.1-3 C:\Users\ASUS\.gradle\caches\transforms-3\10671850e70aa5265cb7dd258c9b5136\transformed\appcompat-1.3.1\res
+com.google.codelab.mlkit.app-core-1.5.0-4 C:\Users\ASUS\.gradle\caches\transforms-3\2445bda76cc9a8ab67613e0dc3a82ce5\transformed\core-1.5.0\res
+com.google.codelab.mlkit.app-cardview-1.0.0-5 C:\Users\ASUS\.gradle\caches\transforms-3\255a4aba3c30a08b5243129436a38b6c\transformed\cardview-1.0.0\res
+com.google.codelab.mlkit.app-jetified-viewpager2-1.0.0-6 C:\Users\ASUS\.gradle\caches\transforms-3\29c80bfb061c7b0a7f4f0911bc979966\transformed\jetified-viewpager2-1.0.0\res
+com.google.codelab.mlkit.app-jetified-play-services-base-18.1.0-7 C:\Users\ASUS\.gradle\caches\transforms-3\48768adf228d03133997d9c1f048ed48\transformed\jetified-play-services-base-18.1.0\res
+com.google.codelab.mlkit.app-lifecycle-viewmodel-2.3.1-8 C:\Users\ASUS\.gradle\caches\transforms-3\645eb79f67bc0b1035fc96429da4cd56\transformed\lifecycle-viewmodel-2.3.1\res
+com.google.codelab.mlkit.app-jetified-lottie-5.2.0-9 C:\Users\ASUS\.gradle\caches\transforms-3\9b4c05f3c94f576d1cd6dbcdefd19a25\transformed\jetified-lottie-5.2.0\res
+com.google.codelab.mlkit.app-jetified-appcompat-resources-1.3.1-10 C:\Users\ASUS\.gradle\caches\transforms-3\9ff44166946910a381ee0ad0c799c042\transformed\jetified-appcompat-resources-1.3.1\res
+com.google.codelab.mlkit.app-media-1.0.0-11 C:\Users\ASUS\.gradle\caches\transforms-3\aa219ccc92cc0e42be4702bf9283d23d\transformed\media-1.0.0\res
+com.google.codelab.mlkit.app-lifecycle-runtime-2.3.1-12 C:\Users\ASUS\.gradle\caches\transforms-3\c7fe7dad174225e9d03e6d272ca111d6\transformed\lifecycle-runtime-2.3.1\res
+com.google.codelab.mlkit.app-recyclerview-1.2.1-13 C:\Users\ASUS\.gradle\caches\transforms-3\de447c16790d7cabb656d5df861c3446\transformed\recyclerview-1.2.1\res
+com.google.codelab.mlkit.app-constraintlayout-2.0.1-14 C:\Users\ASUS\.gradle\caches\transforms-3\e53334f4b4e5e5bf96fc79e9e91b326a\transformed\constraintlayout-2.0.1\res
+com.google.codelab.mlkit.app-transition-1.2.0-15 C:\Users\ASUS\.gradle\caches\transforms-3\f02788972df43e4a1eab2bf6382bbe21\transformed\transition-1.2.0\res
+com.google.codelab.mlkit.app-jetified-play-services-basement-18.1.0-16 C:\Users\ASUS\.gradle\caches\transforms-3\f33cac176ca01f335287f4cac782099a\transformed\jetified-play-services-basement-18.1.0\res
+com.google.codelab.mlkit.app-fragment-1.3.6-17 C:\Users\ASUS\.gradle\caches\transforms-3\fd06d34e18732994e74b7a3e7cb89bc2\transformed\fragment-1.3.6\res
+com.google.codelab.mlkit.app-pngs-18 F:\FaceDetectionLatest copy\app\build\generated\res\pngs\debug
+com.google.codelab.mlkit.app-resValues-19 F:\FaceDetectionLatest copy\app\build\generated\res\resValues\debug
+com.google.codelab.mlkit.app-rs-20 F:\FaceDetectionLatest copy\app\build\generated\res\rs\debug
+com.google.codelab.mlkit.app-mergeDebugResources-21 F:\FaceDetectionLatest copy\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.google.codelab.mlkit.app-mergeDebugResources-22 F:\FaceDetectionLatest copy\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.google.codelab.mlkit.app-merged_res-23 F:\FaceDetectionLatest copy\app\build\intermediates\merged_res\debug
+com.google.codelab.mlkit.app-debug-24 F:\FaceDetectionLatest copy\app\src\debug\res
+com.google.codelab.mlkit.app-main-25 F:\FaceDetectionLatest copy\app\src\main\res

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SKIN DETECTOR</string>
+    <string name="select_image_for_text_recognition">Select image for text recognition</string>
+    <string name="find_text_button">Find text</string>
+    <string name="find_face_contour_button">Detect Skin</string>
+    <string name="find_text_cloud_button">Find text (cloud)</string>
+    <string name="find_objects_button">Find objects</string>
+    <string name="skin_detector">Skin Detector</string>
+    <string name="your_skin_is">Your skin moisture is <b>%1$s</b></string>
+    <string name="okay">Okay</string>
+    <string name="check_moisture">Check Moisture</string>
+    <string name="camera">Camera</string>
+    <string name="detecting">Detecting…</string>
+</resources>
